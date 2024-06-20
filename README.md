@@ -4,5 +4,6 @@ gibberにコピーペーストして、実際の動画の順番に再生する�
 
 ## 下の画像をクリックするとプレイ動画を再生できます。
 
-[![Watch the video](https://img.youtube.com/vi/n9LwsK46Pec/maxresdefault.jpg)](https://youtu.be/uzbohOYJvHI)
+[![Watch the video](https://img.youtube.com/vi/uzbohOYJvHI/maxresdefault.jpg)](https://youtu.be/uzbohOYJvHI)
+
 
