@@ -3,4 +3,7 @@
 gibberにコピーペーストして、実際の動画の順番に再生することで自分のPCでも映像作品を楽しむことができます。
 ## 下の画像をクリックするとプレイ動画を再生できます。
 
+[![Watch the video](https://img.youtube.com/vi/## 下の画像をクリックするとプレイ動画を再生できます。
+
 [![Watch the video](https://img.youtube.com/vi/n9LwsK46Pec/maxresdefault.jpg)](https://youtu.be/uzbohOYJvHI)
+/maxresdefault.jpg)](https://youtu.be/uzbohOYJvHI)
